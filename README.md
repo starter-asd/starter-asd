@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arun_sara
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science & fullstack development
 - 🌱 I’m currently learning python and its libraries
-- 💞️ I’m looking to collaborate on simple projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me dhakada92@gmail.com
 
 <!---
